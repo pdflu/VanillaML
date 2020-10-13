@@ -2,6 +2,8 @@
 VanillaML contains a collection of popular machine learning algorithms in Python. The implementations 
 follow scikit-learn's API conventions and are made to be as simple as possible.
 
+[![Run on Repl.it](https://repl.it/badge/github/vinhkhuc/VanillaML)](https://repl.it/github/vinhkhuc/VanillaML)
+
 ## Demos
 
 <p align="center">
